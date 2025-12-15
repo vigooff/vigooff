@@ -87,7 +87,3 @@
 
 <br />
 <br />
-
-<div align="center">
-  <img src="https://github.com/USERNAME_GITHUB_KAMU/USERNAME_GITHUB_KAMU/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
